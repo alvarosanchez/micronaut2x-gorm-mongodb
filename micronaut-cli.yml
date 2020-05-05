@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [app-name, docker, gradle, groovy, groovy-application, http-client, logback, mongo-gorm, mongo-reactive, netty-server, readme, shade, spock, yaml]
